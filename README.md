@@ -2,7 +2,7 @@
 
 This is the Matlab code used to analyse the data collected for my master thesis titled:
 
-"A new approach to obtaining energy from tidal rise in coastal waters - a hydrodynamic analysis"
+["A new approach to obtaining energy from tidal rise in coastal waters - a hydrodynamic analysis"](https://www.researchgate.net/publication/276918491_A_new_approach_to_obtaining_energy_from_tidal_rise_in_coastal_waters_-_a_hydrodynamic_analysis)
 
 ## Abstract
 
